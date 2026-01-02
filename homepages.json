@@ -1,63 +1,63 @@
-{
+{ 
   "homepages": {
     "News Homepage": {
-      "alias": "Minecraft ĞÂÎÅ",
+      "alias": "Minecraft æ–°é—»",
       "link": "https://news.bugjump.net",
-      "desc": "ÔÚ PCL2 ÖĞÌá¹© MC Ïà¹ØĞÂÎÅµÄÖ÷Ò³, ÓÉ HomepageBuilder Çı¶¯",
+      "desc": "åœ¨ PCL2 ä¸­æä¾› MC ç›¸å…³æ–°é—»çš„ä¸»é¡µ, ç”± HomepageBuilder é©±åŠ¨",
       "preset": true
     },
     "Simple Mainpage": {
-      "alias": "¼òµ¥Ö÷Ò³",
+      "alias": "ç®€å•ä¸»é¡µ",
       "link": "https://news.bugjump.net",
-      "desc": "An useful mainpage based on PCL2 by ÁúÌÚÃ¨Ô¾",
+      "desc": "An useful mainpage based on PCL2 by é¾™è…¾çŒ«è·ƒ",
       "preset": true
     },
     "Daily Modpack": {
-      "alias": "Ã¿ÈÕÕûºÏ°üÍÆ¼ö",
+      "alias": "æ¯æ—¥æ•´åˆåŒ…æ¨è",
       "link": "https://pclsub.sodamc.com",
-      "desc": "Ã¿ÈÕÍÆ¼öÕûºÏ°ü ×ÊÔ´À´×Ôcf Ä¿Ç°ÒÑÒÑ·­ÒëÔ¼9kÆªÕûºÏ°ü½éÉÜ ºóĞø³ÖĞø¸üĞÂ ÒÑ×öºÃ·ÃÎÊÏŞÖÆ ³¤ÆÚÔËĞĞ",
+      "desc": "æ¯æ—¥æ¨èæ•´åˆåŒ… èµ„æºæ¥è‡ªcf ç›®å‰å·²å·²ç¿»è¯‘çº¦9kç¯‡æ•´åˆåŒ…ä»‹ç» åç»­æŒç»­æ›´æ–° å·²åšå¥½è®¿é—®é™åˆ¶ é•¿æœŸè¿è¡Œ",
       "preset": true
     },
     "Daily Skin": {
-      "alias": "Minecraft Æ¤·ôÍÆ¼ö",
+      "alias": "Minecraft çš®è‚¤æ¨è",
       "link": "https://forgepixel.com/pcl_sub_file",
-      "desc": "ÄÚÈİÃ¿Á½Ğ¡Ê±¸üĞÂ16Ìõ£¨Ö®ºó¿ÉÄÜ»á¸Ä£©£¬×ÊÔ´À´×Ô Forgepixel Æ¤·ôÕ¾£¨Ô¼40Íò+Æ¤·ô£©",
+      "desc": "å†…å®¹æ¯ä¸¤å°æ—¶æ›´æ–°16æ¡ï¼ˆä¹‹åå¯èƒ½ä¼šæ”¹ï¼‰ï¼Œèµ„æºæ¥è‡ª Forgepixel çš®è‚¤ç«™ï¼ˆçº¦40ä¸‡+çš®è‚¤ï¼‰",
       "preset": true
     },
     "OpenBMCLAPI Dashboard": {
-      "alias": "OpenBMCLAPI ÒÇ±íÅÌ Lite",
+      "alias": "OpenBMCLAPI ä»ªè¡¨ç›˜ Lite",
       "link": "https://pcl-bmcl.milu.ink",
-      "desc": "ÊµÊ±²é¿´µ±Ç° BMCLAPI ¾µÏñÔ´µÄÏÂÔØ¸ºÔØºÍÑ¹Á¦¡£",
+      "desc": "å®æ—¶æŸ¥çœ‹å½“å‰ BMCLAPI é•œåƒæºçš„ä¸‹è½½è´Ÿè½½å’Œå‹åŠ›ã€‚",
       "preset": true
     },
     "Homepage Market": {
-      "alias": "PCL Ö÷Ò³ÊĞ³¡",
+      "alias": "PCL ä¸»é¡µå¸‚åœº",
       "link": "http://pclhomeplazaoss.lingyunawa.top:26994/d/Homepages/JingHai-Lingyun/Custom.xaml",
-      "desc": "ÕâÀïÊÇ PCL Ö÷Ò³ÊĞ³¡£¬ÓÃÓÚ·ÖÏíÎ´±»ÔØÈëÔ¤ÉèµÄÖ÷Ò³¡£",
+      "desc": "è¿™é‡Œæ˜¯ PCL ä¸»é¡µå¸‚åœºï¼Œç”¨äºåˆ†äº«æœªè¢«è½½å…¥é¢„è®¾çš„ä¸»é¡µã€‚",
       "preset": true
     },
     "Update Homepage": {
-      "alias": "PCL ĞÂÎÅËÙ±¨",
+      "alias": "PCL æ–°é—»é€ŸæŠ¥",
       "link": "http://pclhomeplazaoss.lingyunawa.top:26994/d/Homepages/Joker2184/UpdateHomepage.xaml",
-      "desc": "ÔÚ PCL2 ÖĞÌá¹© PCL ¸üĞÂÈÕÖ¾ or ÁúÃ¨ËµµÄÖ÷Ò³, ÓÉ HomepageBuilder Çı¶¯",
+      "desc": "åœ¨ PCL2 ä¸­æä¾› PCL æ›´æ–°æ—¥å¿— or é¾™çŒ«è¯´çš„ä¸»é¡µ, ç”± HomepageBuilder é©±åŠ¨",
       "preset": true
     },
     "WhatsNew": {
-      "alias": "PCL ĞÂ¹¦ÄÜËµÃ÷Êé",
+      "alias": "PCL æ–°åŠŸèƒ½è¯´æ˜ä¹¦",
       "link": "https://raw.gitcode.com/WForst-Breeze/WhatsNewPCL/raw/main/Custom.xaml",
-      "desc": "Ò»¸ö PCL ×Ô¶¨ÒåÖ÷Ò³£¬Ö¼ÔÚÕ¹Ê¾ PCL Ã¿¸ö´ó°æ±¾µÄÖ÷Òª¸üĞÂÄÚÈİºÍĞÂ¹¦ÄÜµÄÊ¹ÓÃ·½·¨¡£",
+      "desc": "ä¸€ä¸ª PCL è‡ªå®šä¹‰ä¸»é¡µï¼Œæ—¨åœ¨å±•ç¤º PCL æ¯ä¸ªå¤§ç‰ˆæœ¬çš„ä¸»è¦æ›´æ–°å†…å®¹å’Œæ–°åŠŸèƒ½çš„ä½¿ç”¨æ–¹æ³•ã€‚",
       "preset": true
     },
     "PCL2 GitHub Dashboard": {
-      "alias": "PCL GitHub ÒÇ±íÅÌ",
+      "alias": "PCL GitHub ä»ªè¡¨ç›˜",
       "link": "https://raw.gitcode.com/Deep-Dark-Forest/PCL2-GitHub-Dashboard-Homepage/raw/main/custom.xaml",
-      "desc": "PCL GitHub ²Ö¿âÒÇ±íÅÌ×Ô¶¨ÒåÖ÷Ò³",
+      "desc": "PCL GitHub ä»“åº“ä»ªè¡¨ç›˜è‡ªå®šä¹‰ä¸»é¡µ",
       "preset": true
     },
     "Megazine Homepage": {
-      "alias": "ÔÓÖ¾Ö÷Ò³",
+      "alias": "æ‚å¿—ä¸»é¡µ",
       "link": "http://pclhomeplazaoss.lingyunawa.top:26995/d/Homepages/Ext1nguisher/Custom.xaml",
-      "desc": "ÒÔÔÓÖ¾·ç¸ñÕ¹Ê¾×îĞÂµÄ Minecraft ĞÅÏ¢£¬Ö÷ÒªÓĞ MCW Õª³­¡¢¹ÙÍø²©ÎÄ¡¢ĞÂÎÅµÈ°å¿é£¬Ê×¸öÓ¦ÓÃ·Ö±êÇ©Ò³Éè¼ÆµÄÖ÷Ò³¡£",
+      "desc": "ä»¥æ‚å¿—é£æ ¼å±•ç¤ºæœ€æ–°çš„ Minecraft ä¿¡æ¯ï¼Œä¸»è¦æœ‰ MCW æ‘˜æŠ„ã€å®˜ç½‘åšæ–‡ã€æ–°é—»ç­‰æ¿å—ï¼Œé¦–ä¸ªåº”ç”¨åˆ†æ ‡ç­¾é¡µè®¾è®¡çš„ä¸»é¡µã€‚",
       "preset": true
     }
   }
